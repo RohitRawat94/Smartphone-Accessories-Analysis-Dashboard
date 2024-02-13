@@ -5,3 +5,4 @@ Some Key Point Includes:
 3) Sales analyzed by attributes like product type (budget/midrange/flagship phone), accessories categories, and payment method.
 4)Summary statistics provided, including the percentage of sales for each financial year.
 5) Data covers the 2018-2023 period, enabling trend analysis and comparison over time.
+I have atteched the dashboard in pdf format as well as the raw data that I have cleaned using python . After cleaning data in python i have downloaded that data and uses that cleaned data to make dashboard.
